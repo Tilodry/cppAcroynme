@@ -1,0 +1,115 @@
+// acronym4.dta
+//
+// (c) A. Menu 94	maj 10/2011
+// Base de donnees TP ACRONYM version 4
+// ( a voir : http://acronymes.quebec.to/ )
+
+*IP
++0+Intelligent Peripheral
++0+Internet Protocol
+*ATM
++0+Asynchronous Transfer Mode
++0+Automatic Teller Machine
++0+Associate Trade Member
++0+Airborne Topographic Mapper
++0+Air Turbine Motor
++0+Air Traffic Manager
++0+Advanced Traffic Mapping
++0+Advanced Testing Method
++1+Acetone Toluene Methanol
+*JO
++1+Jeux Olympiques
++1+Journal Officiel
++1+Jeunesse Ouvriere
++0+Job Order
++0+Junior Officer
+*JPEG
++0+Joint Photographic Experts Group
+*LAN
++0+Local Area Network
++1+Laboratoire d'Applications Numériques
+*ANSI
++0+American National Standards Institute
+*BMW
++2+Bayerische Motoren Werke
++0+Border, Midland & Westen
+*GNU
++0+GNU's Not Unix
+*HTML
++0+HyperText Markup Language
+*MPEG
++0+Moving Pictures Experts Group
+*NT
++0+Network Termination
++0+New Technology
++0+New Testament
++0+No Trust
+*OSF
++0+Open Software Foundation
++0+Open Systems Facilities
++0+Operations Systems Functional block
+*CAC
++1+Cotation assistée en continu
++3+Comisión del Codex Alimentarius
++3+Comité Administrativo de Coordinación
++1+Centre d'art contemporain
++0+California Association of Criminalists
++1+Comité Administratif de Coordination
+*CRC
++0+Cyclic Redondancy Checksum
++1+Conseil Regional de la Culture
+*DNS
++0+Domain Name System
++0+Distributed Name Service
++0+Distributed Network Supervisor
++2+Desoxyribonukleinsäure
+*EIA
++0+Electronic Industries Association
+*FAQ
++0+Frequently Asked Questions
++1+Foire Aux Questions
+*FMI
++0+Failure Mode Identifier
++1+Fonds Monétaire International
++3+Fondo Monetario Internacional
++1+For More Information
+*FTP
++0+File Transfer Protocol
+*RTS
++0+Reliable Transfer Service
++0+Residual Time Stamp
++0+ReTurn from Subroutine
++0+Request To Send
++0+Ready To Send
++0+Real Time Systems
+*SMTP
++0+Simple Mail transfer Protocol
+*TCP
++0+Transmission Control Protocol
++1+Taux de Couverture Periodique
+*WAN
++0+Wide Area Network
+*GNU
++0+GNU's Not Unix
+*HTML
++0+HyperText Markup Language
+*MPEG
++0+Moving Pictures Experts Group
+*NT
++0+Network Termination
++0+New Technology
++0+New Testament
++0+No Trust
+*OSF
++0+Open Software Foundation
++0+Open Systems Facilities
++0+Operations Systems Functional block
+*OSI
++0+Open Systems Interconnection
++0+Open Source Initiative
++0+Other Supplementary Information
+*PMU
++2+Paracelsus Medizinische Privatuniversität
++1+Pari Mutuel Urbain
++0+Pressure Measuring Unit
+
